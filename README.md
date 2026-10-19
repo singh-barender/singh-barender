@@ -18,7 +18,7 @@ React · Next.js · Node.js · TypeScript · AWS
 
 <br/><br/>
 
-[About](#-about) · [Experience](#-experience) · [Domains](#-domains) · [Tech Stack](#-tech-stack) · [Featured Project](#-featured-project) · [Connect](#-lets-connect)
+[About](#-about) · [Experience](#-experience) · [Domains](#-domains) · [Expertise](#-expertise) · [Tech Stack](#-tech-stack) · [Project](#-featured-project) · [Education](#-education) · [Connect](#-lets-connect)
 
 </div>
 
@@ -31,6 +31,15 @@ Full stack engineer with 7+ years of experience building and shipping production
 On the frontend I build modular architectures with the React ecosystem and cross-platform mobile apps, with a focus on user experience, Core Web Vitals, rendering strategies and accessible, responsive interfaces. On the backend I build REST APIs and microservices with Node.js, NestJS and Fastify, and I own delivery through cloud-native infrastructure and zero-downtime CI/CD on AWS, Docker and Kubernetes.
 
 I also lead legacy refactors, build reusable component libraries and promote scalable state management to reduce technical debt and speed up feature delivery.
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>7+</h3>Years of experience</td>
+<td align="center" width="25%"><h3>3</h3>Companies</td>
+<td align="center" width="25%"><h3>6</h3>Core domains</td>
+<td align="center" width="25%"><h3>3</h3>Payment gateways integrated</td>
+</tr>
+</table>
 
 ---
 
@@ -89,12 +98,97 @@ Started my career as a frontend developer on React-based web applications.
 
 ## 🌐 Domains
 
-<img src="https://img.shields.io/badge/E--commerce-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SaaS-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Platforms-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web3_/_Blockchain-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Healthcare-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Job_Portals-203A43?style=for-the-badge"/>
+Six broad domains that cover the industries I've built production software for.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛒 E-commerce & Marketplaces
+Enterprise storefronts, travel and booking, real estate and logistics platforms, with secure checkout and Core Web Vitals tuning.
+
+</td>
+<td width="33%" valign="top">
+
+### 💳 Fintech, Payments & Web3
+Payment flows with Stripe, Razorpay and Klarna, plus blockchain DApps and crypto, NFT and DeFi products.
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ SaaS & Enterprise
+Scalable MERN applications, CRM, ERP and admin tools, and analytics dashboards with reusable component libraries.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI Platforms
+AI-powered products using OpenAI APIs to add product features, plus AI tooling to speed up development.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏥 Healthcare, Education & Wellness
+Healthcare, fitness and wellness apps, and EdTech and learning platforms, with accessible, role-based interfaces.
+
+</td>
+<td width="33%" valign="top">
+
+### 💬 Social, Media & Recruitment
+Real-time chat and community features, media and streaming platforms, and multi-role job portals with HR tooling.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎨 Frontend Architecture
+Modular, scalable React and Next.js applications, reusable component libraries, design-to-code from Figma, and scalable state management patterns.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Performance & UX
+Core Web Vitals, advanced rendering strategies, code-splitting and lazy loading, and accessible, responsive interfaces.
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 Mobile
+Cross-platform mobile development with React Native, sharing patterns with the web frontend.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### ⚙️ Backend & APIs
+Resilient, high-throughput REST APIs and microservices with Node.js, NestJS, Fastify and Express.
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Cloud & Delivery
+Cloud-native infrastructure on AWS with Docker and Kubernetes, and zero-downtime CI/CD pipelines.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔧 Engineering Leadership
+Legacy refactoring, reducing technical debt, setting standards and collaborating across product and backend teams.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -127,6 +221,14 @@ A Fiverr-style marketplace built as a microservices system to practice productio
 | Stack | Node.js · TypeScript · React · RabbitMQ · Elasticsearch |
 | Infrastructure | Docker · Kubernetes · CI/CD · Prometheus & Grafana |
 | Focus areas | Resilience, observability, idempotent messaging, safe deployments |
+
+---
+
+## 🎓 Education
+
+| Institution | Location |
+|:---|:---|
+| Arya College of Engineering & Research Center | Jaipur, India |
 
 ---
 
